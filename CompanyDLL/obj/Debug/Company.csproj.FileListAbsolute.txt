@@ -1,0 +1,6 @@
+C:\Users\rdemiri\source\repos\Trying\CompanyDLL\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\rdemiri\source\repos\Trying\CompanyDLL\bin\Debug\Company.dll
+C:\Users\rdemiri\source\repos\Trying\CompanyDLL\bin\Debug\Company.pdb
+C:\Users\rdemiri\source\repos\Trying\CompanyDLL\obj\Debug\Company.dll
+C:\Users\rdemiri\source\repos\Trying\CompanyDLL\obj\Debug\Company.pdb
+C:\Users\rdemiri\source\repos\Trying\CompanyDLL\obj\Debug\Company.csprojResolveAssemblyReference.cache

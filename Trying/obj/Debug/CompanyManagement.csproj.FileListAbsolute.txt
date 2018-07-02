@@ -1,0 +1,9 @@
+C:\Users\rdemiri\source\repos\Trying\Trying\bin\Debug\CompanyManagement.exe.config
+C:\Users\rdemiri\source\repos\Trying\Trying\bin\Debug\CompanyManagement.exe
+C:\Users\rdemiri\source\repos\Trying\Trying\bin\Debug\CompanyManagement.pdb
+C:\Users\rdemiri\source\repos\Trying\Trying\bin\Debug\Company.dll
+C:\Users\rdemiri\source\repos\Trying\Trying\bin\Debug\Company.pdb
+C:\Users\rdemiri\source\repos\Trying\Trying\obj\Debug\CompanyManagement.csprojResolveAssemblyReference.cache
+C:\Users\rdemiri\source\repos\Trying\Trying\obj\Debug\CompanyManagement.csproj.CoreCompileInputs.cache
+C:\Users\rdemiri\source\repos\Trying\Trying\obj\Debug\CompanyManagement.exe
+C:\Users\rdemiri\source\repos\Trying\Trying\obj\Debug\CompanyManagement.pdb

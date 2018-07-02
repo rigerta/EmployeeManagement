@@ -1,0 +1,2 @@
+C:\Users\rdemiri\source\repos\Trying\Trying\obj\Debug\Trying.csprojResolveAssemblyReference.cache
+C:\Users\rdemiri\source\repos\Trying\Trying\obj\Debug\Trying.csproj.CoreCompileInputs.cache
